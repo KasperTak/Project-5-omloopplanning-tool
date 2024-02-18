@@ -1,3 +1,4 @@
+openpyxl
 altair
 argon2-cffi
 argon2-cffi-bindings
@@ -47,7 +48,6 @@ nbformat
 nest-asyncio
 notebook
 numpy
-openpyxl
 packaging
 pandas
 pandocfilters
